@@ -4,5 +4,10 @@
 - proto/routeguide.proto file specifies the rpc functions and objects, with the _repeated_ syntax for big object size <br />
 - To test for small objects, we comment out the _repeated_ variable in the proto/routeguide.proto <br />
 ## Commands to run grpc-quic: <br />
+- cd test <br />
 - go run qserver.go <br />
 - go run qclient.go <br />
+## Commands to run grpc-go: <br />
+- cd test <br />
+- go run hserver.go <br/ >
+- go run hclient.go <br />
