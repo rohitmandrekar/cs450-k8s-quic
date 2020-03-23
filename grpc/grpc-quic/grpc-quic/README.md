@@ -9,5 +9,5 @@
 - go run qclient.go <br />
 ## Commands to run grpc-go: <br />
 - cd test <br />
-- go run hserver.go <br/ >
+- go run hserver.go <br />
 - go run hclient.go <br />
