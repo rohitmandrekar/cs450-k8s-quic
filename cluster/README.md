@@ -1,4 +1,4 @@
 - ssh into the master node virtual machine: ssh -X ubuntu@192.168.122.138 <br /> 
 - These files are used to set up the worker and master nodes <br />
 - master.yaml contains code to set up the master node <br />
-- workers.yaml is contains code to set up the worker nodes <br />
+- workers.yaml contains code to set up the worker nodes <br />
