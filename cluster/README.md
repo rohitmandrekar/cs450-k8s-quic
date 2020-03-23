@@ -1,3 +1,3 @@
-These files are used to initialize the worker and master nodes <br />
-master.yaml is used to represent the master node <br />
-workers.yaml is used to represent the worker nodes <br />
+These files are used to set up the worker and master nodes <br />
+master.yaml contains code to set up the master node <br />
+workers.yaml is contains code to set up the worker nodes <br />
