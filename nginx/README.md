@@ -1,4 +1,4 @@
-- This directory contains the code used to make container comprising of nginx applications that use http3, https and http. <br />
+- This directory contains the code used to make containers comprising of nginx applications that use http3, https and http. <br />
 - The container is deployed within a worker node. Its initialized within a pod in the node, using the code in the file **nginx-pod.yaml**. <br />
 - The .conf files are used to configure nginx so that it supports the specified application layer protocol (http3, https or http) <br />
 - The certificates used to make the http3, https communication secure are present in the **cert folder**. The **gen_certs.sh** file comprises of commands to generate the certificates <br />
